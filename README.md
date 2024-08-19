@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Software Engineering student at the Instituto Federal do Paraná (IFPR), currently in my third semester. I have a deep passion for computer science and software architecture.
+I’m a Software Engineering student at the Federal Institute of Paraná (IFPR), currently in my third semester. I have a deep passion for computer science and software architecture.
 
 I’m constantly exploring and learning new technologies, and I have a solid grasp of various programming languages, including Python, Java, HTML, CSS, JavaScript, PHP, and C#.
 
