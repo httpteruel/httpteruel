@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I’m a Software Engineering student at the Instituto Federal do Paraná (IFPR), currently in my third semester. I have a deep passion for computer science and software architecture.
+
+I’m constantly exploring and learning new technologies, and I have a solid grasp of various programming languages, including Python, Java, HTML, CSS, JavaScript, PHP, and C#.
+
+If you’re interested in collaborative projects or just want to chat about technology and software development, feel free to reach out!
+
+🚀 Let’s code together!
+
 <!--
 **httpteruel/httpteruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
